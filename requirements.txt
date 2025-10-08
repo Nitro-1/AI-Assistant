@@ -1,0 +1,16 @@
+# AI Assistant Requirements
+# Install these packages for the AI Assistant to work
+
+# Core AI library
+google-genai>=1.4.0
+
+# Voice recognition and text-to-speech
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Optional: Better console output
+colorama>=0.4.6
